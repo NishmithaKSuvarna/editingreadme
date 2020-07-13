@@ -19,9 +19,11 @@ fff
 ```
 df.info()
 ```
-<img src="images/regression.png">
-+ blockcode
+
+> blockcode text
+
+hello
 
 | heading | header | head |
-| ``` | ``` | ``` |
+| --- | --- | --- |
 | content | more content | text |
