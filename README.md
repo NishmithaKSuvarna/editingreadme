@@ -19,6 +19,8 @@ fff
 ```
 df.info()
 ```
+![accuracy]{https://user-images.githubusercontent.com/67892708/87310399-8c8cc700-c53b-11ea-9a51-434fc98d67ea.png}
+
 
 > blockcode text
 
