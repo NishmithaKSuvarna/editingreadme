@@ -10,7 +10,7 @@ some text
  + intended
     1. inner number
     
-## **internship** ##
+**internship** 
     
 This paragraph has `inline` inline code
 ```
