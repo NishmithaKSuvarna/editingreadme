@@ -13,6 +13,8 @@ some text
 This paragraph has `inline` inline code
 ```
 df.head()
+
+fff
 ```
 ```
 df.info()
