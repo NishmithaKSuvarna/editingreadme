@@ -1,7 +1,7 @@
 # MY FIRST HEADING
 ## practice
 
-just a sample
+just a sample.
 
 some text
 
@@ -10,12 +10,14 @@ some text
  + intended
     1. inner number
     
-This paragraph has 'inline'
-''''
-df.read()
-''''
+This paragraph has `inline` inline code
+```
+df.head()
+```
+```
 df.info()
-
+```
+<img src="images/regression.png">
 + blockcode
 
 | heading | header | head |
